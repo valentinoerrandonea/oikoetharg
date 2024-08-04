@@ -18,6 +18,9 @@ Beginners Bounty
 
 2. Smart Contract de minteo de SBT's: https://scrollscan.com/tx/0xe291f35ff7a2fd5d893d0142eff89d08b910754bfc1cbc137e73b74b98a976fc 
 
+## Video Demo
+https://drive.google.com/file/d/1Tafp24zHtyVTDu_7asXuZlaRN3G9S6AE/view?usp=sharing
+
 ---
 ### Visión General
 Oiko es una aplicación de gestión de finanzas personales que utiliza la tecnología blockchain de Ethereum para ofrecer una experiencia de gestión financiera segura, eficiente y transparente. Con un enfoque en la privacidad y la propiedad de los datos, Oiko transforma la forma en que las personas manejan su dinero, haciendo que la gestión financiera sea accesible y comprensible para todos.
