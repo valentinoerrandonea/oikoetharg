@@ -21,6 +21,10 @@ Beginners Bounty
 ## Video Demo
 https://drive.google.com/file/d/1Tafp24zHtyVTDu_7asXuZlaRN3G9S6AE/view?usp=sharing
 
+## Pitch Deck (PPT)
+https://docs.google.com/presentation/d/1i2-OKJDU4nw2S2Kw3dDZv5ssCsrg4Nrb/edit?usp=sharing&ouid=111892941532808814385&rtpof=true&sd=true
+
+
 ---
 ### Visión General
 Oiko es una aplicación de gestión de finanzas personales que utiliza la tecnología blockchain de Ethereum para ofrecer una experiencia de gestión financiera segura, eficiente y transparente. Con un enfoque en la privacidad y la propiedad de los datos, Oiko transforma la forma en que las personas manejan su dinero, haciendo que la gestión financiera sea accesible y comprensible para todos.
